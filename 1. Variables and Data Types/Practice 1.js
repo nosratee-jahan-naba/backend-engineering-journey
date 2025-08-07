@@ -1,8 +1,8 @@
-```javascript
+
 //  Q: Fix the variable declarations
-var userName = "John";
-var userAge = 25;
-var isLoggedIn = false;
+//      var userName = "John";
+//      var userAge = 25;
+//      var isLoggedIn = false;
 
 // answer:
 const username = "John";
